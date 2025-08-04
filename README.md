@@ -5,4 +5,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaantonov&show_icons=true&count_private=true&include_all_commits=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iliaantonov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iliaantonov&theme=dark&no-frame=false&no-bg=true&margin-w=4)
